@@ -59,7 +59,7 @@ Para executar este projeto localmente, siga os passos abaixo:
 
 ## 📄 Artigo e Autores
 
-📄 **[Clique aqui para ler o artigo completo em PDF](./docs/Artigo_Tempo_de_Tela_Ciência_de_Dados.pdf)**
+📄 **[Clique aqui para ler o artigo completo em PDF](./docs/Artigo_Tempo_de_Tela_Ciencia_de_Dados.pdf)**
 
 O trabalho científico, com a metodologia e a discussão detalhada dos resultados, foi desenvolvido por:
 
