@@ -1,0 +1,19 @@
+# Arquivos de Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambientes Virtuais
+venv/
+env/
+.venv/
+build/
+dist/
+*.egg-info/
+
+# Arquivos de Sistema
+.DS_Store
+
+# Arquivos de Notebooks Jupyter
+.ipynb_checkpoints
