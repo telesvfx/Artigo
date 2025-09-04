@@ -56,10 +56,9 @@ Para executar este projeto localmente, siga os passos abaixo:
 
 3.  **Execute o Notebook:**
     Abra e execute o notebook Jupyter localizado em `analysis/Screen_Time_PI.ipynb`.
-
 ## 📄 Artigo e Autores
 
-📄 **[Clique aqui para ler o artigo completo em PDF](./docs/Artigo_Tempo_de_Tela_Ciencia_de_Dados.pdf)**
+📄 **[Clique aqui para ler o artigo completo em PDF](analise-tempo-de-tela/docs/Artigo_Tempo_de_Tela_Ciencia_de_Dados.pdf)**
 
 O trabalho científico, com a metodologia e a discussão detalhada dos resultados, foi desenvolvido por:
 
