@@ -45,7 +45,7 @@ Para executar este projeto localmente, siga os passos abaixo:
 
 1.  **Clone este repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/analise-tempo-de-tela.git](https://github.com/seu-usuario/analise-tempo-de-tela.git)
+    git clone [https://github.com/telesvfx/analise-tempo-de-tela.git](https://github.com/telesvfx/analise-tempo-de-tela.git)
     cd analise-tempo-de-tela
     ```
 
@@ -59,7 +59,7 @@ Para executar este projeto localmente, siga os passos abaixo:
 
 ## 📄 Artigo e Autores
 
-📄 **[Clique aqui para ler o artigo completo em PDF](./docs/Artigo%20Tempo%20de%20Tela%20Ciência%20de%20Dados.pdf)**
+📄 **[Clique aqui para ler o artigo completo em PDF](./docs/Artigo_Tempo_de_Tela_Ciência_de_Dados.pdf)**
 
 O trabalho científico, com a metodologia e a discussão detalhada dos resultados, foi desenvolvido por:
 
